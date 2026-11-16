@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "yunah",
+    "groupId": "illit",
+    "name": "YUNAH",
+    "koreanName": "윤아",
+    "image": "images/members/yunah.jpg"
+  },
+  {
+    "id": "minju",
+    "groupId": "illit",
+    "name": "MINJU",
+    "koreanName": "민주",
+    "image": "images/members/minju.jpg"
+  },
+  {
+    "id": "moka",
+    "groupId": "illit",
+    "name": "MOKA",
+    "koreanName": "모카",
+    "image": "images/members/moka.jpg"
+  },
+  {
+    "id": "wonhee",
+    "groupId": "illit",
+    "name": "WONHEE",
+    "koreanName": "원희",
+    "image": "images/members/wonhee.jpg"
+  },
+  {
+    "id": "iroha",
+    "groupId": "illit",
+    "name": "IROHA",
+    "koreanName": "이로하",
+    "image": "images/members/iroha.jpg"
+  }
+]
