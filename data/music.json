@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "magnetic",
+    "title": "Magnetic",
+    "group": "ILLIT",
+    "album": "SUPER REAL ME",
+    "releaseDate": "2024-03-25",
+    "image": "images/albums/super-real-me.jpg",
+    "mvUrl": "https://www.youtube.com/watch?v=Vk5-c_v4gMU"
+  },
+  {
+    "id": "cherish",
+    "title": "Cherish (My Love)",
+    "group": "ILLIT",
+    "album": "I'll Like You",
+    "releaseDate": "2024-10-21",
+    "image": "images/albums/ill-like-you.jpg",
+    "mvUrl": "https://www.youtube.com/watch?v=tbDGl7jEazA"
+  },
+  {
+    "id": "not-cute-anymore",
+    "title": "NOT CUTE ANYMORE",
+    "group": "ILLIT",
+    "album": "NOT CUTE ANYMORE",
+    "releaseDate": "2025-11-24",
+    "image": "images/albums/not-cute-anymore.jpg",
+    "mvUrl": "https://www.youtube.com/watch?v=x_RYZsOfpKY"
+  },
+  {
+    "id": "its-me",
+    "title": "It's Me",
+    "group": "ILLIT",
+    "album": "MAMIHLAPINATAPAI",
+    "releaseDate": "2026-04-30",
+    "image": "images/albums/mamihlapinatapai.jpg",
+    "mvUrl": "https://www.youtube.com/watch?v=bMhDJ0S0OBA"
+  }
+]
